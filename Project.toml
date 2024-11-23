@@ -1,0 +1,4 @@
+name = "ConfigTools"
+uuid = "8667c4cd-d5b3-4085-90ac-b91969c98889"
+authors = ["martin <ga63loc@mytum.de>"]
+version = "0.1.0"
